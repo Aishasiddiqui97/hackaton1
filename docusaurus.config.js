@@ -35,10 +35,10 @@ const config = {
         label: 'English',
         direction: 'ltr',
       },
-      ur: {
-        label: 'اردو',
-        direction: 'rtl',
-      },
+      // ur: {
+      //   label: 'اردو',
+      //   direction: 'rtl',
+      // },
     },
   },
 

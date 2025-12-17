@@ -51,7 +51,7 @@ jobs:
 
       - name: Build website
         # Ensure both English and Urdu are built
-        run: npm run build -- --locale en ur
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
