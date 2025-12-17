@@ -4,42 +4,42 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/PhysicalAi-Robotics-Book/__docusaurus/debug',
-    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug', 'fb6'),
+    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug', 'c1e'),
     exact: true
   },
   {
     path: '/PhysicalAi-Robotics-Book/__docusaurus/debug/config',
-    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/config', '4ae'),
+    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/config', '126'),
     exact: true
   },
   {
     path: '/PhysicalAi-Robotics-Book/__docusaurus/debug/content',
-    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/content', 'e20'),
+    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/content', 'be1'),
     exact: true
   },
   {
     path: '/PhysicalAi-Robotics-Book/__docusaurus/debug/globalData',
-    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/globalData', 'f44'),
+    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/globalData', '36b'),
     exact: true
   },
   {
     path: '/PhysicalAi-Robotics-Book/__docusaurus/debug/metadata',
-    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/metadata', '686'),
+    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/metadata', '40a'),
     exact: true
   },
   {
     path: '/PhysicalAi-Robotics-Book/__docusaurus/debug/registry',
-    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/registry', '1b0'),
+    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/registry', '152'),
     exact: true
   },
   {
     path: '/PhysicalAi-Robotics-Book/__docusaurus/debug/routes',
-    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/routes', 'be4'),
+    component: ComponentCreator('/PhysicalAi-Robotics-Book/__docusaurus/debug/routes', '555'),
     exact: true
   },
   {
     path: '/PhysicalAi-Robotics-Book/docs',
-    component: ComponentCreator('/PhysicalAi-Robotics-Book/docs', 'c81'),
+    component: ComponentCreator('/PhysicalAi-Robotics-Book/docs', 'd87'),
     routes: [
       {
         path: '/PhysicalAi-Robotics-Book/docs',
@@ -117,7 +117,7 @@ export default [
   },
   {
     path: '/PhysicalAi-Robotics-Book/',
-    component: ComponentCreator('/PhysicalAi-Robotics-Book/', 'd1e'),
+    component: ComponentCreator('/PhysicalAi-Robotics-Book/', 'cff'),
     exact: true
   },
   {

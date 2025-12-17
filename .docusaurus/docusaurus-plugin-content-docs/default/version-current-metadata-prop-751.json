@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Embodied Intelligence: Where AI Meets the Physical World",
+        "label": "Introduction",
         "href": "/PhysicalAi-Robotics-Book/docs/intro",
         "docId": "intro",
         "unlisted": false
@@ -92,8 +92,8 @@
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Embodied Intelligence: Where AI Meets the Physical World",
-      "description": "Welcome to the Physical AI & Humanoid Robotics educational platform - a comprehensive guide to building intelligent robotic systems that bridge the gap between artificial intelligence and physical reality.",
+      "title": "Introduction",
+      "description": "This is a link created using the Link component: Go to the next page",
       "sidebar": "tutorialSidebar"
     },
     "module1-ros/intro": {

@@ -36,12 +36,12 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "E:\\Python.py\\claude\\PhysicalAi Robotics book\\book\\book\\sidebars.js",
+          "sidebarPath": "E:\\Python.py\\hackaton book1\\sidebars.js",
           "editUrl": "https://github.com/PhysicalAI-Robotics/PhysicalAi-Robotics-Book/tree/main/"
         },
         "blog": false,
         "theme": {
-          "customCss": "E:\\Python.py\\claude\\PhysicalAi Robotics book\\book\\book\\src\\css\\custom.css"
+          "customCss": "E:\\Python.py\\hackaton book1\\src\\css\\custom.css"
         }
       }
     ]

@@ -11,21 +11,22 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://physicalai-robotics.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub Pages deployment, it's usually '/<projectName>/'
-  baseUrl: '/PhysicalAi-Robotics-Book/',
+  // Replace 'your-project-name' with your actual Vercel project slug
+  url: 'https://physical-ai-robotics-book.vercel.app',
+  
+  // For Vercel, baseUrl is typically '/'
+  baseUrl: '/',
 
   // GitHub pages deployment config.
-  organizationName: 'PhysicalAI-Robotics', // Usually your GitHub org/user name.
-  projectName: 'PhysicalAi-Robotics-Book', // Usually your repo name.
+  // These are less critical for Vercel but good to keep for reference.
+  organizationName: 'PhysicalAI-Robotics', 
+  projectName: 'PhysicalAi-Robotics-Book', 
 
+  // Important for hackathons: 'ignore' or 'warn' prevents build failure on small link typos
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  // Internationalization settings
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'ur'],
@@ -48,12 +49,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          // Points to your GitHub repo so users can click "Edit this page"
           editUrl:
             'https://github.com/PhysicalAI-Robotics/PhysicalAi-Robotics-Book/tree/main/',
         },
-        blog: false, // Disable blog for this educational book
+        blog: false, 
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

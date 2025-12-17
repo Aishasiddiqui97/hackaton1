@@ -15,14 +15,14 @@
           "editUrlLocalized": "https://github.com/PhysicalAI-Robotics/PhysicalAi-Robotics-Book/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "E:\\Python.py\\claude\\PhysicalAi Robotics book\\book\\book\\sidebars.js",
-          "contentPath": "E:\\Python.py\\claude\\PhysicalAi Robotics book\\book\\book\\docs",
-          "contentPathLocalized": "E:\\Python.py\\claude\\PhysicalAi Robotics book\\book\\book\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "E:\\Python.py\\hackaton book1\\sidebars.js",
+          "contentPath": "E:\\Python.py\\hackaton book1\\docs",
+          "contentPathLocalized": "E:\\Python.py\\hackaton book1\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "intro",
-              "title": "Embodied Intelligence: Where AI Meets the Physical World",
-              "description": "Welcome to the Physical AI & Humanoid Robotics educational platform - a comprehensive guide to building intelligent robotic systems that bridge the gap between artificial intelligence and physical reality.",
+              "title": "Introduction",
+              "description": "This is a link created using the Link component: Go to the next page",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -32,10 +32,7 @@
               "editUrl": "https://github.com/PhysicalAI-Robotics/PhysicalAi-Robotics-Book/tree/main/docs/intro.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Repository Structure & Guidelines",
@@ -162,7 +159,7 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Embodied Intelligence: Where AI Meets the Physical World",
+                "title": "Introduction",
                 "permalink": "/PhysicalAi-Robotics-Book/docs/intro"
               },
               "next": {

@@ -1,51 +1,51 @@
 {
-  "/PhysicalAi-Robotics-Book/__docusaurus/debug-fb6": {
+  "/PhysicalAi-Robotics-Book/__docusaurus/debug-c1e": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debugc-01-dd7"
+      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debug-0-d-8-422"
     }
   },
-  "/PhysicalAi-Robotics-Book/__docusaurus/debug/config-4ae": {
+  "/PhysicalAi-Robotics-Book/__docusaurus/debug/config-126": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debugc-01-dd7"
+      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debug-0-d-8-422"
     }
   },
-  "/PhysicalAi-Robotics-Book/__docusaurus/debug/content-e20": {
+  "/PhysicalAi-Robotics-Book/__docusaurus/debug/content-be1": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debugc-01-dd7"
+      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debug-0-d-8-422"
     },
     "allContent": "allContent---physical-ai-robotics-book-docusaurus-debug-content-246-147"
   },
-  "/PhysicalAi-Robotics-Book/__docusaurus/debug/globalData-f44": {
+  "/PhysicalAi-Robotics-Book/__docusaurus/debug/globalData-36b": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debugc-01-dd7"
+      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debug-0-d-8-422"
     }
   },
-  "/PhysicalAi-Robotics-Book/__docusaurus/debug/metadata-686": {
+  "/PhysicalAi-Robotics-Book/__docusaurus/debug/metadata-40a": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debugc-01-dd7"
+      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debug-0-d-8-422"
     }
   },
-  "/PhysicalAi-Robotics-Book/__docusaurus/debug/registry-1b0": {
+  "/PhysicalAi-Robotics-Book/__docusaurus/debug/registry-152": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debugc-01-dd7"
+      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debug-0-d-8-422"
     }
   },
-  "/PhysicalAi-Robotics-Book/__docusaurus/debug/routes-be4": {
+  "/PhysicalAi-Robotics-Book/__docusaurus/debug/routes-555": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debugc-01-dd7"
+      "plugin": "plugin---physical-ai-robotics-book-docusaurus-debug-0-d-8-422"
     }
   },
-  "/PhysicalAi-Robotics-Book/docs-c81": {
+  "/PhysicalAi-Robotics-Book/docs-d87": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---physical-ai-robotics-book-docs-237-100"
+      "plugin": "plugin---physical-ai-robotics-book-docs-98-b-cea"
     }
   },
   "/PhysicalAi-Robotics-Book/docs-c94": {
@@ -95,10 +95,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-robotics-book-docs-repo-structurefdf-1fd"
   },
-  "/PhysicalAi-Robotics-Book/-d1e": {
+  "/PhysicalAi-Robotics-Book/-cff": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---physical-ai-robotics-book-592-3e4"
+      "plugin": "plugin---physical-ai-robotics-book-dbc-aa6"
     },
     "config": "config---physical-ai-robotics-book-5-e-9-ef5"
   }
